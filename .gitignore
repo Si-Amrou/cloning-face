@@ -1,0 +1,17 @@
+# Never commit reference photos or generated portraits of real people
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.heic
+references/
+outputs/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Packaged skill uploads
+*.zip
