@@ -1,0 +1,10 @@
+{
+  "name": "cloning-face",
+  "version": "1.0.0",
+  "description": "Turn reference photos of any face into identity-locked image-generation prompts for five angles (front, right, left, above, below), plus a pre-prompt, style block and negative prompt.",
+  "author": {
+    "name": "Si Amrou"
+  },
+  "license": "MIT",
+  "keywords": ["prompt-engineering", "image-generation", "face-consistency", "portrait", "character-reference"]
+}
