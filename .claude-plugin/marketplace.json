@@ -1,0 +1,13 @@
+{
+  "name": "cloning-face",
+  "owner": {
+    "name": "Si Amrou"
+  },
+  "plugins": [
+    {
+      "name": "cloning-face",
+      "source": "./",
+      "description": "Identity-locked portrait prompts for five camera angles from any set of face reference photos."
+    }
+  ]
+}
